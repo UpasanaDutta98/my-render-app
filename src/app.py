@@ -49,14 +49,14 @@ import dash_bootstrap_components as dbc
 # In[5]:
 
 
-pickle_in = open("water_fullDataFrame_500K.pkl", "rb")
-water = pickle.load(pickle_in)
+# pickle_in = open("water_fullDataFrame_500K.pkl", "rb")
+# water = pickle.load(pickle_in)
 
 
 # In[6]:
 
 
-# water = pd.read_csv("https://data.cnra.ca.gov/dataset/3f96977e-2597-4baa-8c9b-c433cea0685e/resource/a9e7ef50-54c3-4031-8e44-aa46f3c660fe/download/lab_results.csv")
+water = pd.read_csv("https://github.com/UpasanaDutta98/my-render-app/blob/main/src/water_fullDataFrame_500K.pkl")
 
 
 # In[7]:
