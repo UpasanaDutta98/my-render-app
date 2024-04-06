@@ -1,0 +1,11 @@
+dash==2.16.1
+dash_bootstrap_components==1.5.0
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+dash_leaflet==1.0.15
+folium==0.16.0
+geopandas==0.13.2
+numpy==1.24.4
+pandas==2.0.3
+gunicorn
+dash-tools
